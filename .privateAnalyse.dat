@@ -1,0 +1,15 @@
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:46;needPrivstr:;readonlyScalarstr:LDA,LDB,LDC,M,N,K;readonlyArraystr:;cannotPrivstr:;unknownstr:A,B,C
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:46;needPrivstr:;readonlyScalarstr:LDA,LDB,LDC,M,N,K;readonlyArraystr:;cannotPrivstr:;unknownstr:A,B,C
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:46;needPrivstr:;readonlyScalarstr:LDA,LDB,LDC;readonlyArraystr:;cannotPrivstr:;unknownstr:A,B,C
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:46;needPrivstr:;readonlyScalarstr:LDA,LDB,LDC;readonlyArraystr:;cannotPrivstr:;unknownstr:A,B,C
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:46;needPrivstr:;readonlyScalarstr:LDA,LDB,LDC;readonlyArraystr:;cannotPrivstr:;unknownstr:
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:46;needPrivstr:;readonlyScalarstr:LDA,LDB,LDC;readonlyArraystr:;cannotPrivstr:;unknownstr:
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:46;needPrivstr:;readonlyScalarstr:LDA,LDB,LDC;readonlyArraystr:;cannotPrivstr:;unknownstr:
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:46;needPrivstr:;readonlyScalarstr:M,N,K;readonlyArraystr:;cannotPrivstr:;unknownstr:
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:46;needPrivstr:;readonlyScalarstr:M,N,K;readonlyArraystr:;cannotPrivstr:;unknownstr:
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:46;needPrivstr:;readonlyScalarstr:LDA,LDB,LDC,M,N,K;readonlyArraystr:;cannotPrivstr:;unknownstr:A,B,C
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:46;needPrivstr:;readonlyScalarstr:LDA,LDB,LDC,M,N,K;readonlyArraystr:;cannotPrivstr:;unknownstr:A,B,C
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:47;needPrivstr:;readonlyScalarstr:LDA,LDB,LDC,M,N,K;readonlyArraystr:;cannotPrivstr:;unknownstr:
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:47;needPrivstr:;readonlyScalarstr:LDA,LDB,LDC,M,N,K;readonlyArraystr:;cannotPrivstr:;unknownstr:
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:47;needPrivstr:;readonlyScalarstr:LDA,LDB,LDC;readonlyArraystr:;cannotPrivstr:;unknownstr:
+file_name:/home/export/online3/cesm02/liujw/xiaol/OpenACC_test/test/master-slave/master.c;file_line_no:47;needPrivstr:;readonlyScalarstr:LDA,LDB,LDC;readonlyArraystr:;cannotPrivstr:;unknownstr:
